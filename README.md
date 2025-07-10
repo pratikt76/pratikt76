@@ -11,7 +11,7 @@
 - 🌱 I’m learning **Spring Boot**, **Docker**, and **Kubernetes**
 - 👨‍💻 All of my work lives at [my portfolio site](https://pratikt76.github.io/)
 - 💬 Ask me about **Java, Spring Boot**, and **random trivia no one asked for**
-- 📄 Know more about my journey: **SDE at Bajaj Finserv**
+- 📄 Currently working as an **SDE at Bajaj Finserv**
 - ⚡ Fun fact: **I watch more cinema than I write code... almost.**
 
 ---

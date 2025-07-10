@@ -29,11 +29,6 @@
 ### 📣 Apache Kafka
 - Event-driven design with Kafka for real-time data streaming and processing
 
-### 🛠️ Dev Tools & Practices
-- Git for version control
-- Postman for API testing
-- Maven/Gradle for project management
-- CI/CD knowledge, especially with cloud-native tools
 
 ---
 
